@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tets",
-    "slug": "tets",
+    "name": "test-trackier",
+    "slug": "test-trackier",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
